@@ -1,4 +1,4 @@
-DS_file_name <- "kpi15.txt"
+DS_file_name <- "DataSet.txt"
 
 # Parameters for matrix creation
 ncol <- 7
